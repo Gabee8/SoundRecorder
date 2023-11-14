@@ -1,5 +1,7 @@
  # SoundRecorder 
- Simple Windows soundrecorder program writing the c# by Visual Studio 2010
+Simple Windows soundrecorder program writing the c# by Visual Studio 2010
+
+
 ![](https://tandemradio.hu/wp-content/uploads/Hangrogzito-1.png)
 
 ![](https://tandemradio.hu/wp-content/uploads/soundrec1.4_en.png)
