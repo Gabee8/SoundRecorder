@@ -1,4 +1,4 @@
-![](https://github.com/Gabee8/SoundRecorder/blob/main/SoundRecorder/images/mainicon.png) # SoundRecorder 
+ # SoundRecorder 
  Simple Windows soundrecorder program writing the c# by Visual Studio 2010
 ![](https://tandemradio.hu/wp-content/uploads/Hangrogzito-1.png)
 
