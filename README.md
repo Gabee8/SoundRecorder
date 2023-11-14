@@ -1,4 +1,7 @@
  # SoundRecorder 
+![](https://img.shields.io/badge/build-passing?label=1.4&labelColor=blue&link=https%3A%2F%2Fgithub.com%2FGabee8%2FSoundRecorder%2Freleases%2Ftag%2Frelease)
+
+
 Simple Windows soundrecorder program writing the c# by Visual Studio 2010
 
 ![](https://tandemradio.hu/wp-content/uploads/Hangrogzito-1.png)
