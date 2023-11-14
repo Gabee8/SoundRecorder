@@ -1,5 +1,6 @@
  # SoundRecorder 
-![Static Badge](https://img.shields.io/badge/1.4-passing?label=Release&link=https%3A%2F%2Fgithub.com%2FGabee8%2FSoundRecorder%2Freleases%2Ftag%2Frelease)
+[![Version](https://img.shields.io/badge/1.4-passing?label=Release)](https://github.com/Gabee8/SoundRecorder/releases/tag/release)
+https://img.shields.io/github/license/Gabee8/SoundRecorder
 
 Simple Windows soundrecorder program writing the c# by Visual Studio 2010
 
