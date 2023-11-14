@@ -1,5 +1,5 @@
  # SoundRecorder 
-![](https://img.shields.io/badge/release-passing?label=1.4&labelColor=blue&cacheSeconds=https%3A%2F%2Fgithub.com%2FGabee8%2FSoundRecorder%2Freleases%2Ftag%2Frelease)
+![Static Badge](https://img.shields.io/badge/release-passing?label=1.4&labelColor=blue&cacheSeconds=https%3A%2F%2Fgithub.com%2FGabee8%2FSoundRecorder%2Freleases%2Ftag%2Frelease)
 
 
 Simple Windows soundrecorder program writing the c# by Visual Studio 2010
