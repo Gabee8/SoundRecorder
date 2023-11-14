@@ -6,7 +6,7 @@
 -------------
 The recorder is saving in MP3 format file. I use and [NAudio](https://github.com/naudio/NAudio) license by.
 The program include the two languages (Hungarian/English) in the Languages folder. The your language modification is free.
-##### Supported Windows: Windows 7 SP1 or never.
+##### Supported Windows: Windows 7 SP1 or newer.
 ##### Edit your language:
 Language path: bin\debug\Languages or application root folder\Languages.
 ```xaml
