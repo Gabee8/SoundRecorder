@@ -1,0 +1,40 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+    <system:String x:Key="mainTitle">Hangrögzítő</system:String>
+    <system:String x:Key="rec">Felvétel</system:String>
+    <system:String x:Key="pause">Szünet</system:String>
+    <system:String x:Key="continue">Folytatás</system:String>
+    <system:String x:Key="stop">Leállítás</system:String>
+    <system:String x:Key="timer">Időzítés</system:String>
+    <system:String x:Key="settings">Beállítások</system:String>
+    <system:String x:Key="about">Névjegy</system:String>
+    <system:String x:Key="filename">Hangrögzítés</system:String>
+    <system:String x:Key="mp3file">MP3 fájlok</system:String>
+    <system:String x:Key="questionWExit">Kívánja menteni a hangfájlon végzett módosításokat?</system:String>
+    <system:String x:Key="scheduledFilename">IdőzítettFelvétel</system:String>
+    <system:String x:Key="settingsTitle">Hangrögzítő Beállítások</system:String>
+    <system:String x:Key="settingsQuality">Minőség</system:String>
+    <system:String x:Key="settingsQualityList0">Alacsony (128kb/s)</system:String>
+    <system:String x:Key="settingsQualityList1">Közepes (192kb/s)</system:String>
+    <system:String x:Key="settingsQualityList2">Jó (256kb/s)</system:String>
+    <system:String x:Key="settingsQualityList3">Legjobb (320kb/s)</system:String>
+    <system:String x:Key="settingsInput">Bemenet:</system:String>
+    <system:String x:Key="settingsStartTray">Indítás után rejtse el az óra mellé</system:String>
+    <system:String x:Key="settingsProgressStyle">Folyamatjelző stílusa:</system:String>
+    <system:String x:Key="settingsProgressStyle0">Windows 7</system:String>
+    <system:String x:Key="settingsProgressStyle1">Egyszerű</system:String>
+    <system:String x:Key="settingsLanguage">Nyelv:</system:String>
+    <system:String x:Key="apply">Alkalmaz</system:String>
+    <system:String x:Key="close">Bezár</system:String>
+    <system:String x:Key="yes">Igen</system:String>
+    <system:String x:Key="no">Nem</system:String>
+    <system:String x:Key="warning">Figyelem</system:String>
+    <system:String x:Key="timerTitle">Felvétel időzítése</system:String>
+    <system:String x:Key="timerH">Óra</system:String>
+    <system:String x:Key="timerM">Perc</system:String>
+    <system:String x:Key="timerS">Másodperc</system:String>
+    <system:String x:Key="aboutTitle">Hangrögzítő - névjegye</system:String>
+    <system:String x:Key="aboutVer">Verzió:</system:String>
+    <system:String x:Key="aboutInfo">A hangrögzítő ingyenesenhasználható. MP3 fájlformátumban rögzít és az esetleges licensz NAudio-t illeti.</system:String>
+</ResourceDictionary>

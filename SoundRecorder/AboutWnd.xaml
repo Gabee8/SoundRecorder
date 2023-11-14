@@ -1,0 +1,13 @@
+﻿<Window x:Class="SoundRecorder.AboutWnd"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="{DynamicResource aboutTitle}" Height="160" Width="309" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Name="aboutwnd" UseLayoutRounding="True" Icon="/SoundRecorder;component/images/mainicon.png" ShowInTaskbar="False">
+    <Grid>
+        <Button Style="{StaticResource Office2010Button}" Content="{DynamicResource close}" Height="23" HorizontalAlignment="Left" Margin="202,96,0,0" Name="button1" VerticalAlignment="Top" Width="83" Click="button1_Click" />
+        <Image Height="48" HorizontalAlignment="Left" Margin="12,23,0,0" Name="image1" Stretch="None" VerticalAlignment="Top" Width="48" Source="/SoundRecorder;component/images/mainicon_48.png" />
+
+        <Label Content="{DynamicResource aboutVer}" Height="28" HorizontalAlignment="Left" Margin="12,91,0,0" Name="label2" VerticalAlignment="Top" FontSize="11" FontWeight="SemiBold" />
+        <TextBlock Height="64" HorizontalAlignment="Left" Margin="82,23,0,0" Name="textBlock1" Text="{DynamicResource aboutInfo}" VerticalAlignment="Top" TextTrimming="CharacterEllipsis" TextWrapping="WrapWithOverflow" />
+        <Label Content="1.0" Height="28" HorizontalAlignment="Left" Margin="54,90,0,0" Name="versionLabel" VerticalAlignment="Top" FontWeight="SemiBold" FontSize="11" />
+    </Grid>
+</Window>

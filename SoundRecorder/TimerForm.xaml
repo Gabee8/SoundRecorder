@@ -1,0 +1,35 @@
+﻿<Window x:Class="SoundRecorder.TimerForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:CustomControls="clr-namespace:CustomControls"
+        Title="{DynamicResource timerTitle}" Height="116" Width="308" WindowStartupLocation="CenterOwner" ResizeMode="CanMinimize" Icon="/SoundRecorder;component/images/timer.png" UseLayoutRounding="True" ShowInTaskbar="False" Loaded="Window_Loaded">
+    <Grid>
+        <Border x:Name="ButtonsArea" BorderThickness="0,1,0,0" Padding="9,6" Height="40" VerticalAlignment="Bottom">
+            <Border.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFFBFDFF" Offset="0.017" />
+                    <GradientStop Color="#FFDDE8F6" Offset="1" />
+                </LinearGradientBrush>
+            </Border.Background>
+        </Border>
+        <Grid>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="32"/>
+                <RowDefinition Height="1*"/>
+            </Grid.RowDefinitions>
+            <StackPanel Grid.Row="0" Orientation="Horizontal">
+                <CustomControls:NumericUpDown Width="48" BorderThickness="0" MaxValue="100" x:Name="stopHour"  />
+                <Label Content="{DynamicResource timerH}" Margin="2,0" />
+                <CustomControls:NumericUpDown Width="48" MaxValue="59" x:Name="stopMinute"  />
+                <Label Content="{DynamicResource timerM}" Margin="2,0" />
+                <CustomControls:NumericUpDown Width="48" MaxValue="59" x:Name="stopSecond" />
+                <Label Content="{DynamicResource timerS}" Margin="2,0" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Grid.Row="1" HorizontalAlignment="Right">
+                <Button Style="{StaticResource Office2010Button}" Content="{DynamicResource apply}" Height="23" HorizontalAlignment="Right" Margin="0,16,10,0" Name="button1" VerticalAlignment="Top" Width="75" Click="button1_Click" />
+                <Button Style="{StaticResource Office2010Button}" Content="{DynamicResource close}" Height="23" HorizontalAlignment="Right" Margin="0,16,10,0" Name="button2" VerticalAlignment="Top" Width="75" Click="button2_Click" />
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>
