@@ -10,6 +10,7 @@ The program include the two languages (Hungarian/English) in the Languages folde
 ##### Supported Windows: Windows 7 SP1 or newer.
 ##### Edit your language:
 Language path: bin\debug\Languages or application root folder\Languages.
+Create mylanguage.xaml file example:
 ```xaml
 <ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:system="clr-namespace:System;assembly=mscorlib">
@@ -17,4 +18,5 @@ Language path: bin\debug\Languages or application root folder\Languages.
     <system:String x:Key="mainTitle">Soundrecoder</system:String>
     <system:String x:Key="rec">Record</system:String>
 .....
+</ResourceDictionary>
 ```
