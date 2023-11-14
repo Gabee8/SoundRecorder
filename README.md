@@ -1,5 +1,5 @@
-# SoundRecorder 
-![](https://github.com/Gabee8/SoundRecorder/blob/main/SoundRecorder/images/mainicon.png) Simple Windows soundrecorder program writing the c# by Visual Studio 2010
+![](https://github.com/Gabee8/SoundRecorder/blob/main/SoundRecorder/images/mainicon.png) # SoundRecorder 
+ Simple Windows soundrecorder program writing the c# by Visual Studio 2010
 ![](https://tandemradio.hu/wp-content/uploads/Hangrogzito-1.png)
 
 ![](https://tandemradio.hu/wp-content/uploads/soundrec1.4_en.png)
