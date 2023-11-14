@@ -1,0 +1,40 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+    <system:String x:Key="mainTitle">Soundrecoder</system:String>
+    <system:String x:Key="rec">Record</system:String>
+    <system:String x:Key="pause">Pause</system:String>
+    <system:String x:Key="continue">Continue</system:String>
+    <system:String x:Key="stop">Stop</system:String>
+    <system:String x:Key="timer">Timer</system:String>
+    <system:String x:Key="settings">Settings</system:String>
+    <system:String x:Key="about">About</system:String>
+    <system:String x:Key="filename">Recording</system:String>
+    <system:String x:Key="mp3file">MP3 files</system:String>
+    <system:String x:Key="questionWExit">Do yout want the modificitaion of the soundfile?</system:String>
+    <system:String x:Key="scheduledFilename">ScheduledRecord</system:String>
+    <system:String x:Key="settingsTitle">Soundrecorder Settings</system:String>
+    <system:String x:Key="settingsQuality">Quality</system:String>
+    <system:String x:Key="settingsQualityList0">Low (128kb/s)</system:String>
+    <system:String x:Key="settingsQualityList1">Middle (192kb/s)</system:String>
+    <system:String x:Key="settingsQualityList2">Good (256kb/s)</system:String>
+    <system:String x:Key="settingsQualityList3">Best (320kb/s)</system:String>
+    <system:String x:Key="settingsInput">Input:</system:String>
+    <system:String x:Key="settingsStartTray">Hidden the trybar after starting.</system:String>
+    <system:String x:Key="settingsProgressStyle">Progressbar Style:</system:String>
+    <system:String x:Key="settingsProgressStyle0">Windows 7</system:String>
+    <system:String x:Key="settingsProgressStyle1">Simple</system:String>
+    <system:String x:Key="settingsLanguage">Language:</system:String>
+    <system:String x:Key="apply">Apply</system:String>
+    <system:String x:Key="close">Close</system:String>
+    <system:String x:Key="yes">Yes</system:String>
+    <system:String x:Key="no">No</system:String>
+    <system:String x:Key="warning">Warning</system:String>
+    <system:String x:Key="timerTitle">Record timer settings</system:String>
+    <system:String x:Key="timerH">Hour</system:String>
+    <system:String x:Key="timerM">Minute</system:String>
+    <system:String x:Key="timerS">Second</system:String>
+    <system:String x:Key="aboutTitle">Soundrecorder - about</system:String>
+    <system:String x:Key="aboutVer">Version:</system:String>
+    <system:String x:Key="aboutInfo">The soundrecorder is free. The recorder is saving in MP3 format file. I use and NAudio license by.</system:String>
+</ResourceDictionary>
