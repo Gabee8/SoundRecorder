@@ -2,7 +2,7 @@
 [![Version](https://img.shields.io/badge/1.4-passing?label=Release)](https://github.com/Gabee8/SoundRecorder/releases/tag/release)
 [![License](https://img.shields.io/github/license/Gabee8/SoundRecorder)](https://github.com/Gabee8/SoundRecorder/blob/main/LICENSE)
 
-Simple Windows soundrecorder program writing the c# by Visual Studio 2010
+Simple Windows soundrecorder program written C# by Visual Studio 2010
 
 ![](https://tandemradio.hu/wp-content/uploads/Hangrogzito-1.png)
 
