@@ -5,6 +5,7 @@
 Simple Windows soundrecorder program writing the c# by Visual Studio 2010
 
 ![](https://tandemradio.hu/wp-content/uploads/Hangrogzito-1.png)
+
 ![](http://tandemradio.hu/wp-content/uploads/snrec_2023_11_15_en.png)
 
 ![](https://tandemradio.hu/wp-content/uploads/soundrec1.4_en.png)
